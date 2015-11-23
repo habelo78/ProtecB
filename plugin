@@ -1,0 +1,5 @@
+main: com.gmail.habelo78.plugins.BoneCombat.Main
+name: BoneCombat
+version: 1.2
+author: Habelo78
+description: Plugin diseñado para MineBone Anti-Tpakill y Anti-SpawnKill
